@@ -32,8 +32,8 @@ Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.go
 ### Talks
 **Some talks I've given on my research and related topics:**
 
-* [Deep learning in a nutshell](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/nyc_talk.pdf)
-* [Deep learning using contrastive measures](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/eilat_talk.pdf)
+* [Deep learning in a nutshell](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/nyc_talk.pdf)
+* [Deep learning using contrastive measures](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/eilat_talk.pdf)
 * [TripletNet](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/TripletNetPresentation.pdf)
 * [AutoEncoders for dimensionality reduction]("https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/Auto-Encoders for dimensionality reduction.pptx")
 * [Introduction to convolutional networks](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/dlnlp.pdf)
