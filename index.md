@@ -16,7 +16,7 @@ Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding**[\
 [\[Report\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/SparseDL-Project.pdf)
 [\[Presentation\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/SparseDL-Presentation.pdf)
 
-***
+
 ### Courses
 **I gave a course about Deep Learning at Technion:**
 
