@@ -28,7 +28,16 @@ Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.go
 * [Lecture 4](https://www.youtube.com/watch?v=DA74IKkfPjQ)
 * [Lecture 5](https://www.youtube.com/watch?v=M0nEbtsuWvw)
 
-***
+
+### Talks
+**Some talks I've given on my research and related topics:**
+
+* [Deep learning in a nutshell](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/nyc_talk.pdf)
+* [Deep learning using contrastive measures](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/eilat_talk.pdf)
+* [TripletNet](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/TripletNetPresentation.pdf)
+* [AutoEncoders for dimensionality reduction]("https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/Auto-Encoders for dimensionality reduction.pptx")
+* [Introduction to convolutional networks](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/dlnlp.pdf)
+* [Learning word representations - word2vec](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/word2vec_presentation.pdf)
 
 ### Contact
 You can contact me at my Technion email at: ehoffer@tx.technion.ac.il
