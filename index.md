@@ -23,6 +23,7 @@ Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding**[\
 Slides and tutorials are available [here](https://github.com/eladhoffer/DeepLearningCourse.git)
 
 Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.google.com/site/michaelzibulevsky/)):
+
 * [Lecture 2](https://www.youtube.com/watch?v=_iwnLPQPj30)
 * [Lecture 3](https://www.youtube.com/watch?v=8YNMBYgXFaY)
 * [Lecture 4](https://www.youtube.com/watch?v=DA74IKkfPjQ)
@@ -40,4 +41,4 @@ Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.go
 * [Learning word representations - word2vec](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/word2vec_presentation.pdf)
 
 ### Contact
-You can contact me at my Technion email at: ehoffer@tx.technion.ac.il
+You can contact me at my Technion email: ehoffer@tx.technion.ac.il
