@@ -2,7 +2,7 @@
 I'm Elad Hoffer, PhD candidate at Technion.
 My research is focused on Deep Learning of representations, and I'm also interested in related topics of machine learning and computer vision.
 
-My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2015.pdf?raw=true)
+My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2017.pdf?raw=true)
 
 ### Publications
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
