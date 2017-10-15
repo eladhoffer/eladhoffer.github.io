@@ -5,12 +5,18 @@ My research is focused on Deep Learning of representations, and I'm also interes
 My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2017.pdf?raw=true)
 
 ### Publications
-Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
+Elad Hoffer, Itay Hubara, Daniel Soudry - **Train longer, generalize better: closing the generalization gap in large batch training of neural networks** - NIPS 2017 Oral presentation [\[ArXiv\]](https://arxiv.org/abs/1705.08741)[\[Code\]](https://github.com/eladhoffer/bigBatch)
+
+Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding** - ICLR 2017 - workshop [\[ArXiv\]](https://arxiv.org/abs/1611.01449)[\[Code\]](https://github.com/eladhoffer/SemiSupContrast)
+
+Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
+
+Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervised learning** - NIPS 2016 - Workshop on Interpretable Machine Learning in Complex Systems [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
 
 ### Additional works
-Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spatial contrasting** [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
+Elad Hoffer, Shai Fine - **On the Blindspots of Convolutional Networks** [\[Paper\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/cnnBlindspots.pdf)
 
-Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding**[\[ArXiv\]](https://arxiv.org/abs/1611.01449)[\[Code\]](https://github.com/eladhoffer/SemiSupContrast)
+Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spatial contrasting** [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
 
 **Sparse Deep Learning** - Merging double sparsity with Deep NN
 [\[Report\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/SparseDL-Project.pdf)
