@@ -9,9 +9,9 @@ Elad Hoffer, Itay Hubara, Daniel Soudry - **Train longer, generalize better: clo
 
 Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding** - ICLR 2017 - workshop [\[ArXiv\]](https://arxiv.org/abs/1611.01449)[\[Code\]](https://github.com/eladhoffer/SemiSupContrast)
 
-Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
-
 Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervised learning** - NIPS 2016 - Workshop on Interpretable Machine Learning in Complex Systems [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
+
+Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
 Elad Hoffer, Shai Fine - **On the Blindspots of Convolutional Networks** [\[Paper\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/cnnBlindspots.pdf)
