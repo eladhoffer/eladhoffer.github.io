@@ -14,6 +14,10 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
+Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
+
+Daniel Soudry, Elad Hoffer, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
+
 Elad Hoffer, Shai Fine - **On the Blindspots of Convolutional Networks** [\[Paper\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/cnnBlindspots.pdf)
 
 Daniel Soudry, Elad Hoffer - **Exponentially vanishing sub-optimal local minima in multilayer neural networks** [\[ArXiv\]](https://arxiv.org/abs/1702.05777)
@@ -49,4 +53,4 @@ Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.go
 * [Learning word representations - word2vec](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/word2vec_presentation.pdf)
 
 ### Contact
-You can contact me at my Technion email: ehoffer@tx.technion.ac.il
+You can contact me at my email: elad.hoffer@gmail.com
