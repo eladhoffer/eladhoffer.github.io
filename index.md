@@ -5,6 +5,12 @@ My research is focused on Deep Learning of representations, and I'm also interes
 My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2018.pdf?raw=true)
 
 ### Publications
+Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
+
+Daniel Soudry, Elad Hoffer, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
+
+Daniel Soudry, Elad Hoffer - **Exponentially vanishing sub-optimal local minima in multilayer neural networks** - ICLR 2018 - workshop [\[ArXiv\]](https://arxiv.org/abs/1702.05777)
+
 Elad Hoffer, Itay Hubara, Daniel Soudry - **Train longer, generalize better: closing the generalization gap in large batch training of neural networks** - NIPS 2017 Oral presentation (1.2% acceptance rate) [\[ArXiv\]](https://arxiv.org/abs/1705.08741)[\[Code\]](https://github.com/eladhoffer/bigBatch)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_poster_nips2017.pdf?raw=true)[\[Presentation\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_presentation_nips2017.pdf?raw=true)[\[Video\]](https://youtu.be/WWWQXTb_69c?t=15m1s)
 
 Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding** - ICLR 2017 - workshop [\[ArXiv\]](https://arxiv.org/abs/1611.01449)[\[Code\]](https://github.com/eladhoffer/SemiSupContrast)
@@ -14,13 +20,7 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
-Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
-
-Daniel Soudry, Elad Hoffer, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
-
 Elad Hoffer, Shai Fine - **On the Blindspots of Convolutional Networks** [\[Paper\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/cnnBlindspots.pdf)
-
-Daniel Soudry, Elad Hoffer - **Exponentially vanishing sub-optimal local minima in multilayer neural networks** [\[ArXiv\]](https://arxiv.org/abs/1702.05777)
 
 Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spatial contrasting** [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
 
