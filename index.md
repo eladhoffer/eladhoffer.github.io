@@ -20,7 +20,7 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
-Elad Hoffer, Shai Fine - **On the Blindspots of Convolutional Networks** [\[Paper\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/cnnBlindspots.pdf)
+Elad Hoffer, Shai Fine, Daniel Soudry - **On the Blindspots of Convolutional Networks** [\[ArXiv\]](https://arxiv.org/abs/1802.05187)
 
 Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spatial contrasting** [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
 
