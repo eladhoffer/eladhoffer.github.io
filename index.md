@@ -7,7 +7,7 @@ My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blo
 ### Publications
 Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
 
-Daniel Soudry, Elad Hoffer, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
+Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
 
 Daniel Soudry, Elad Hoffer - **Exponentially vanishing sub-optimal local minima in multilayer neural networks** - ICLR 2018 - workshop [\[ArXiv\]](https://arxiv.org/abs/1702.05777)
 
@@ -21,6 +21,7 @@ Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2
 
 ### Additional works
 Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
+
 Elad Hoffer, Shai Fine, Daniel Soudry - **On the Blindspots of Convolutional Networks** [\[ArXiv\]](https://arxiv.org/abs/1802.05187)
 
 Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spatial contrasting** [\[ArXiv\]](https://arxiv.org/abs/1610.00243)[\[Code\]](https://github.com/eladhoffer/SpatialContrasting)
