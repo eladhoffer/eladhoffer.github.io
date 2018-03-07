@@ -46,6 +46,7 @@ Videos are available on YouTube (Thanks to [Michael Zibulevsky](https://sites.go
 
 ### Talks
 **Some talks I've given on my research and related topics:**
+* [Rethinking Common Practices in Deep Learning (IMVC2018)](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/imvc_2018.pdf)
 * [Introduction to deep learning - video](https://www.youtube.com/watch?v=JrFT3t7Bn5I&feature=youtu.be)
 * [Deep learning in a nutshell](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/nyc_talk.pdf)
 * [Deep learning using contrastive measures](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Talks/eilat_talk.pdf)
