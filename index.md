@@ -20,6 +20,8 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
+Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** [\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
+
 Chen Zeno, Itay Golan, Elad Hoffer, Daniel Soudry - **Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning** [\[ArXiv\]](https://arxiv.org/abs/1803.10123)
 
 Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
