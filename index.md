@@ -5,6 +5,10 @@ My research is focused on Deep Learning of representations, and I'm also interes
 My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2018.pdf?raw=true)
 
 ### Publications
+Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - To appear in NIPS 2018 as spotlight [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
+
+Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** - To appear in NIPS 2018 [\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
+
 Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
 
 Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Nathan Srebro - **The Implicit Bias of Gradient Descent on Separable Data** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1710.10345)
@@ -20,11 +24,8 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
-Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** [\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
 
 Chen Zeno, Itay Golan, Elad Hoffer, Daniel Soudry - **Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning** [\[ArXiv\]](https://arxiv.org/abs/1803.10123)
-
-Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
 
 Elad Hoffer, Shai Fine, Daniel Soudry - **On the Blindspots of Convolutional Networks** [\[ArXiv\]](https://arxiv.org/abs/1802.05187)
 
