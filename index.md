@@ -5,7 +5,7 @@ My research is focused on Deep Learning of representations, and I'm also interes
 My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2018.pdf?raw=true)
 
 ### Publications
-Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - To appear in NIPS 2018 as spotlight [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
+Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - To appear in NIPS 2018 as *spotlight (3.5% acceptance rate)* [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
 
 Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** - To appear in NIPS 2018 [\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
 
@@ -15,7 +15,7 @@ Daniel Soudry, Elad Hoffer, Mor Shpigel Nacson, Nathan Srebro - **The Implicit B
 
 Daniel Soudry, Elad Hoffer - **Exponentially vanishing sub-optimal local minima in multilayer neural networks** - ICLR 2018 - workshop [\[ArXiv\]](https://arxiv.org/abs/1702.05777)
 
-Elad Hoffer, Itay Hubara, Daniel Soudry - **Train longer, generalize better: closing the generalization gap in large batch training of neural networks** - NIPS 2017 Oral presentation (1.2% acceptance rate) [\[ArXiv\]](https://arxiv.org/abs/1705.08741)[\[Code\]](https://github.com/eladhoffer/bigBatch)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_poster_nips2017.pdf?raw=true)[\[Presentation\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_presentation_nips2017.pdf?raw=true)[\[Video\]](https://youtu.be/WWWQXTb_69c?t=15m1s)
+Elad Hoffer, Itay Hubara, Daniel Soudry - **Train longer, generalize better: closing the generalization gap in large batch training of neural networks** - NIPS 2017 *Oral presentation (1.2% acceptance rate)* [\[ArXiv\]](https://arxiv.org/abs/1705.08741)[\[Code\]](https://github.com/eladhoffer/bigBatch)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_poster_nips2017.pdf?raw=true)[\[Presentation\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/train_longer_presentation_nips2017.pdf?raw=true)[\[Video\]](https://youtu.be/WWWQXTb_69c?t=15m1s)
 
 Elad Hoffer, Nir Ailon - **Semi-supervised deep learning by metric embedding** - ICLR 2017 - workshop [\[ArXiv\]](https://arxiv.org/abs/1611.01449)[\[Code\]](https://github.com/eladhoffer/SemiSupContrast)
 
