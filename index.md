@@ -35,6 +35,8 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Deep unsupervised learning through spati
 [\[Report\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/SparseDL-Project.pdf)
 [\[Presentation\]](https://github.com/eladhoffer/eladhoffer.github.io/raw/master/Projects/SparseDL-Presentation.pdf)
 
+### Patents
+Daniel D.B.D Rubin, Elad Hoffer - **IMAGE DIFFERENCE BASED SEGMENTATION USING RECURSIVE NEURAL NETWORKS** - patent US20180227483A1
 
 ### Courses
 **I gave a course about Deep Learning at Technion:**
