@@ -2,7 +2,7 @@
 I'm Elad Hoffer, PhD candidate at Technion.
 My research is focused on Deep Learning of representations, and I'm also interested in related topics of machine learning and computer vision.
 
-My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/Elad_Hoffer_CV2018.pdf?raw=true)
+My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
 Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - To appear in NIPS 2018 as *spotlight (3.5% acceptance rate)* [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
