@@ -5,9 +5,9 @@ My research is focused on Deep Learning of representations, and I'm also interes
 My CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
-Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - To appear in NIPS 2018 as *spotlight (3.5% acceptance rate)* [\[ArXiv\]](https://arxiv.org/abs/1803.01814)
+Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - NeurIPS 2018 as *spotlight (3.5% acceptance rate)* [\[NeurIPS\]](https://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-network)[\[ArXiv\]](https://arxiv.org/abs/1803.01814)[\[Code\]](https://github.com/eladhoffer/norm_matters)
 
-Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** - To appear in NIPS 2018 [\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
+Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** - NeurIPS 2018 [\[NeurIPS\]](https://papers.nips.cc/paper/7761-scalable-methods-for-8-bit-training-of-neural-networks)[\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
 
 Elad Hoffer, Itay Hubara, Daniel Soudry - **Fix your classifier: the marginal value of training the last weight layer** - ICLR 2018 [\[ArXiv\]](https://arxiv.org/abs/1801.04540)
 
@@ -24,6 +24,11 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
+
+Elad Hoffer, Itay Hubara, Niv Giladi, Daniel Soudry - **Augment your batch: better training with larger batches** [\[OpenReview\]](https://openreview.net/forum?id=H1V4QhAqYQ)
+
+Elad Hoffer, Berry Weinstein, Itay Hubara, Sergei Gofman, Daniel Soudry- **Infer2Train: leveraging inference for better training
+of deep networks** - NeurIPS 2018 Workshop on Systems for ML [\[PDF\]](http://learningsys.org/nips18/assets/papers/24CameraReadySubmissionInfer2Train.pdf)
 
 Chen Zeno, Itay Golan, Elad Hoffer, Daniel Soudry - **Bayesian Gradient Descent: Online Variational Bayes Learning with Increased Robustness to Catastrophic Forgetting and Weight Pruning** [\[ArXiv\]](https://arxiv.org/abs/1803.10123)
 
