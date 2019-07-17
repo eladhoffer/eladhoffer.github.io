@@ -1,9 +1,9 @@
 ### Short Bio
-Elad Hoffer holds a PhD (2019) Master (2016) and B.Sc. (2014) degrees in Electrical Engineering from the Technion - Israel Institute of Technology. Research leading to his PhD thesis, titled "Deep Learning: Rethinking Common Practices" was done under the guidance of Prof. Daniel Soudry and Prof. Nir Ailon. 
+I hold a Ph.D. (2019) Master (2016) and B.Sc. (2014) degrees in Electrical Engineering from the Technion - Israel Institute of Technology. Research leading to my thesis, titled "Deep Learning: Rethinking Common Practices" was done under the guidance of Prof. Daniel Soudry and Prof. Nir Ailon. 
 
-Elad's current research is focused on Deep Learning of representations and other related topics of machine learning and computer vision.
+My current research is focused on Deep Learning of representations and other related topics of machine learning and computer vision.
 
-Elad's CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
+CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
 Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - NeurIPS 2018 as *spotlight (3.5% acceptance rate)* [\[NeurIPS\]](https://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-network)[\[ArXiv\]](https://arxiv.org/abs/1803.01814)[\[Code\]](https://github.com/eladhoffer/norm_matters)
