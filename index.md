@@ -25,6 +25,7 @@ Elad Hoffer, Itay Hubara, Nir Ailon - **Spatial contrasting for deep unsupervise
 Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2015 [\[ArXiv\]](http://arxiv.org/abs/1412.6622)[\[Poster\]](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/triplet_poster.pdf?raw=true)[\[Code\]](https://github.com/eladhoffer/TripletNet)
 
 ### Additional works
+Elad Hoffer, Berry Weinstein, Itay Hubara, Tal Ben-Nun, Torsten Hoefler, Daniel Soudry - **Mix & Match: training convnets with mixed image sizes for improved accuracy, speed and scale resiliency** [SEDL NeurIPS Workshop](https://sites.google.com/view/sedl-neurips-2019/) [\[ArXiv\]](https://arxiv.org/abs/1908.08986)
 
 Elad Hoffer, Itay Hubara, Niv Giladi, Daniel Soudry - **Augment your batch: better training with larger batches** [\[OpenReview\]](https://openreview.net/forum?id=H1V4QhAqYQ)
 
