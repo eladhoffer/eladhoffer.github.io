@@ -6,6 +6,12 @@ My current research is focused on Deep Learning of representations and other rel
 CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
+Elad Hoffer, Itay Hubara, Niv Giladi, Daniel Soudry, Torsten Hoefler - **Increasing batch size through instance repetition improves generalization** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1901.09335)
+
+Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry - **The Knowledge Within: Methods for Data-Free Model Compression** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1912.01274)
+
+Niv Giladi, Mor Shpigel Nacson, Elad Hoffer, Daniel Soudry - **At Stability's Edge: How to Adjust Hyperparameters to Preserve Minima Selection in Asynchronous Training of Neural Networks?** - ICLR 2020, Spotlight (4.1% acceptance rate) [\[Arxiv\]](https://arxiv.org/abs/1909.12340)
+
 Elad Hoffer, Ron Banner, Itay Golan, Daniel Soudry - **Norm matters: efficient and accurate normalization schemes in deep networks** - NeurIPS 2018 as *spotlight (3.5% acceptance rate)* [\[NeurIPS\]](https://papers.nips.cc/paper/7485-norm-matters-efficient-and-accurate-normalization-schemes-in-deep-network)[\[ArXiv\]](https://arxiv.org/abs/1803.01814)[\[Code\]](https://github.com/eladhoffer/norm_matters)
 
 Ron Banner, Itay Hubara, Elad Hoffer, Daniel Soudry - **Scalable Methods for 8-bit Training of Neural Networks** - NeurIPS 2018 [\[NeurIPS\]](https://papers.nips.cc/paper/7761-scalable-methods-for-8-bit-training-of-neural-networks)[\[ArXiv\]](https://arxiv.org/abs/1805.11046)[\[Code\]](https://github.com/eladhoffer/quantized.pytorch)
@@ -26,8 +32,6 @@ Elad Hoffer, Nir Ailon - **Deep metric learning using Triplet network** - ICLR 2
 
 ### Additional works
 Elad Hoffer, Berry Weinstein, Itay Hubara, Tal Ben-Nun, Torsten Hoefler, Daniel Soudry - **Mix & Match: training convnets with mixed image sizes for improved accuracy, speed and scale resiliency** [SEDL NeurIPS Workshop](https://sites.google.com/view/sedl-neurips-2019/) [\[ArXiv\]](https://arxiv.org/abs/1908.08986)
-
-Elad Hoffer, Itay Hubara, Niv Giladi, Daniel Soudry - **Augment your batch: better training with larger batches** [\[OpenReview\]](https://openreview.net/forum?id=H1V4QhAqYQ)
 
 Elad Hoffer, Berry Weinstein, Itay Hubara, Sergei Gofman, Daniel Soudry- **Infer2Train: leveraging inference for better training
 of deep networks** - NeurIPS 2018 Workshop on Systems for ML [\[PDF\]](http://learningsys.org/nips18/assets/papers/24CameraReadySubmissionInfer2Train.pdf)
