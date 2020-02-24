@@ -6,7 +6,7 @@ My current research is focused on Deep Learning of representations and other rel
 CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
-Elad Hoffer, Itay Hubara, Niv Giladi, Daniel Soudry, Torsten Hoefler - **Increasing batch size through instance repetition improves generalization** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1901.09335)
+Elad Hoffer, Tal Ben-Nun, Itay Hubara, Niv Giladi, Torsten Hoefler, Daniel Soudry - **Increasing batch size through instance repetition improves generalization** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1901.09335)
 
 Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry - **The Knowledge Within: Methods for Data-Free Model Compression** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1912.01274)
 
