@@ -6,6 +6,11 @@ My current research is focused on Deep Learning of representations and other rel
 CV is available [here](https://github.com/eladhoffer/eladhoffer.github.io/blob/master/cv.pdf?raw=true)
 
 ### Publications
+
+Brian Chmiel, Liad Ben-Uri, Moran Shkolnik, Elad Hoffer, Ron Banner, Daniel Soudry - **Neural gradients are near-lognormal: improved quantized and sparse training** ICLR 2021 [\[OpenReview\]](https://openreview.net/forum?id=EoFNy62JGd)
+
+Chen Zeno, Itay Golan, Elad Hoffer, Daniel Soudry - **Task-agnostic continual learning using online variational bayes with fixed-point updates** - Neural Computation 2021 [\[ArXiv\]](https://arxiv.org/abs/2010.00373)
+
 Elad Hoffer, Tal Ben-Nun, Itay Hubara, Niv Giladi, Torsten Hoefler, Daniel Soudry - **Increasing batch size through instance repetition improves generalization** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1901.09335)
 
 Matan Haroush, Itay Hubara, Elad Hoffer, Daniel Soudry - **The Knowledge Within: Methods for Data-Free Model Compression** - CVPR 2020 [\[Arxiv\]](https://arxiv.org/abs/1912.01274)
